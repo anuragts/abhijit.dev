@@ -1,6 +1,7 @@
 <template>
   <div class="font-custom mt-60">
-   <img src="../assets/profile.jpg"  class="float-right w-2/6 m-[-60px] mx-10" alt="">
+    <div class="lg:block flex justify-center items-center">
+   <img src="../assets/profile.jpg"  class="float-none w-3/5 mb-8 lg:w-2/6 	 lg:float-right m-[-60px] mx-10  	" alt=""></div>
    <div class="flex flex-col w-3/5	 items-center justify-center">
     <div class="text-5xl">👋 Hello There !</div>
     <div class="text-4xl  px-20 py-8">
