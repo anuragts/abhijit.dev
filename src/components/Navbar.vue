@@ -1,5 +1,5 @@
 <template>
-  <div class="py-8 text-xl font-custom sm:text-3xl text-center	">
+  <div class="sm:py-8 text-xl font-custom sm:text-3xl text-center	">
     <div class="flex flex-row justify-center items-center md:block ">
     <router-link class="my-5 md:my-0 float-left text-third"  to="/">abhijit.dev</router-link> </div>
       <div class="flex flex-row justify-center items-center md:block">
