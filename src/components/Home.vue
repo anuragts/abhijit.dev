@@ -26,7 +26,7 @@
       </a>
     </div>  
     <div class="flex flex-row items-center sm:w-3/5 justify-center ">
-    <router-link to="/about" class="my-4 px-7 sm:px-9 py-4 bg-third text-primary text-xl sm:text-2xl hover:bg-primary hover:text-third hover:border-2 hover:border-third">Know More</router-link></div>
+    <router-link to="/about" class="my-4 px-7 sm:px-9 py-4 bg-third text-primary text-xl sm:text-2xl hover:bg-primary hover:text-third hover:border-2 hover:border-third rounded-full	">Know More</router-link></div>
     <div>
      
   </div>
