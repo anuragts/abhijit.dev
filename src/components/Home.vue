@@ -4,7 +4,7 @@
    <img src="../assets/profile.jpg"  class="float-none w-3/5 mb-8 lg:w-2/6 rounded-full sm:rounded-[3.5rem]	 	 lg:float-right lg:m-[-60px] mx-10  	" alt=""></div>
    <div class="w:screen flex flex-col lg:w-3/5 mt-8 lg:mt-0	 items-center justify-center">
     <div class="text-3xl sm:leading-loose sm:text-5xl">👋 Hello There !</div>
-    <div class="text-xl px-0 sm:text-4xl  sm:px-20 py-8">
+    <div class="text-xl px-0 sm:text-4xl  sm:px-20 py-8 text-center">
       I am
       <span class="underline decoration-solid decoration-third">
         Creative
